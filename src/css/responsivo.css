@@ -1,0 +1,17 @@
+@media (max-width: 700px) {
+    .cabecalho {
+        background-color: white;
+        padding: 30px;
+    }
+
+    .personagens-slider {
+        padding: 0px 15px;
+        gap: 10px;
+    }
+
+    .btn-seta{
+        padding: 20px;
+        width: 20px;
+        height: 20px;
+    }
+}
